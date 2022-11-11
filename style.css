@@ -1,0 +1,122 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #cdcdcd;
+}
+
+.areas {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.leftarea {
+  display: flex;
+  flex-direction: column;
+  background-color: #ababab;
+  height: 100%;
+  margin-top: 30px;
+}
+
+.rightarea {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.titlecard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  min-height: 20px;
+  background-color: #435543;
+  color: white;
+  margin: 10px;
+}
+
+.scale {
+  display: flex;
+  color: white;
+  background-color: #433777;
+}
+
+.scaletick {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10px;
+  width: 80px;
+  color: white;
+  border: 1px solid white;
+}
+
+.tasks {
+  display: flex;
+  flex-direction: column;
+  background-color: #393984;
+  height: 100%;
+}
+
+.taskcard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fefefe;
+  border-radius: 4px;
+  padding: 5px;
+  height: 20px;
+  width: 100px;
+  margin: 10px;
+}
+
+.taskcard1 {
+  width: 100px;
+  margin-left: 80px;
+}
+
+.taskcard2 {
+  width: 550px;
+  margin-left: 230px;
+}
+
+.taskcard3 {
+  width: 400px;
+  margin-left: 40px;
+}
+
+.taskcard4 {
+  width: 300px;
+  margin-left: 130px;
+}
+
+.taskcard5 {
+  width: 350px;
+  margin-left: 400px;
+}
+
+.taskcard6 {
+  width: 90px;
+  margin-left: 90px;
+}
+
+.taskcard7 {
+  width: 70px;
+  margin-left: 230px;
+}
+
+.taskcard8 {
+  width: 150px;
+  margin-left: 10px;
+}
+
+.taskcard9 {
+  width: 60px;
+  margin-left: 120px;
+}
+
+.taskcard10 {
+  width: 50px;
+  margin-left: 45px;
+}
